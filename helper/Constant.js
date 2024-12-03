@@ -1,0 +1,18 @@
+exports.Messages = {
+    REQUIRED: "required",
+    HEALTH_OK: "Health is ok!",
+    EMAIL_NOT_FOUND: "Email is not found!",
+    SUCCESS: "Success",
+    PASSWORD_NOT_MATCH: "Passwords does not match",
+    DATA_NOT_FOUND: "data not found",
+    ALREADY_EXISTS: "already exists",
+    UPDATED_SUCCESS: "updated successfully",
+    DELETED_SUCCESS: "deleted successfully",
+    NOT_AUTHORIZED: "not authorized",
+    BAD_REQUEST: "bad request",
+    CREATED_SUCCESS: "created successfully",
+    SOMETHING_WENT_WRONG: "something went wrong",
+    DB_CONNECTED: "Database connection has been established successfully.",
+    DB_CONNECTED_FAILED: "Unable to connect to the database:",
+    DB_SYNC_SUCCESS: "Database synchronized successfully",
+}
